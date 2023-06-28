@@ -1,0 +1,17 @@
+{
+  "name": "tourism-website-master",
+  "version": "1.0.0",
+  "description": "This is a demo tourism website which front-end developed using HTML, CSS and JavaScript(JQuery). All the codes had been hard-coded.",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
